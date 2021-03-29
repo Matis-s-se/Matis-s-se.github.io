@@ -13,3 +13,4 @@ if(variable2 != null){
     window.location.href="https://osu.ppy.sh/users/9910665";
   }).listen();
 }
+  

@@ -68,6 +68,15 @@ li {
     color: aqua;
 }
 
+.icon_align {
+    display: flex;
+    align-items: center;
+}
+
+.icon_align ion-icon {
+    margin-right: 10px;
+}
+
 @media (max-width: 728px) {
     .img_stage1 {
         width: 75%;

@@ -75,6 +75,22 @@ li {
 
 .icon_align ion-icon {
     margin-right: 10px;
+    transform: translateY(4px);
+    font-size: 23px;
+}
+
+footer ul {
+    list-style: none;
+    line-height: 2;
+    
+}
+
+footer ul a:link {
+    text-decoration: none;
+}
+
+.liststylen {
+    list-style: none;
 }
 
 @media (max-width: 728px) {

@@ -132,3 +132,11 @@ footer ul a:link {
     transform: translateX(-10px);
     }
 }
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-text {
+    color: #FFF;
+}
+
+nav.navbar.navbar-fixed-top.navbar-inverse {
+    background-color: #1c1c1cb8;
+}
